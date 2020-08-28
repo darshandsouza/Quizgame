@@ -1,0 +1,39 @@
+[
+    {
+       "question": "Inside which HTML element do we put the Javascript?",
+       "choice1": "<script>",
+       "choice2": "<javascript>",
+       "choice3": "<js>",
+       "choice4": "<scripting>",
+       "answer": 1
+    },
+
+    {
+       "question": "what is correct",
+       "choice1": "<script hesk>",
+       "choice2": "<script  jdsk >",
+       "choice3": "<js kdks>",
+       "choice4": "<scring  jkdks>",
+       "answer": 2
+    },
+
+    {
+        "question": "My name is darshan ",
+        "choice1": "<kj>",
+        "choice2": "<jshs>",
+        "choice3": "<js>",
+        "choice4": "<sdjs>",
+        "answer": 4
+    },
+
+    {
+        "question": "hejki ",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    
+    }
+
+]
